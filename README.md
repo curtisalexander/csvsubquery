@@ -1,5 +1,5 @@
 # csvsubquery
-Perform a subquery using CSV files with a common key.  For more complex subquery logic, see [csvkit](https://github.com/onyxfish/csvkit)
+Perform a subquery using CSV files with a common key.  For more complex subquery logic, see [csvkit](https://github.com/onyxfish/csvkit).
 
 ## Usage
 ```
