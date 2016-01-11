@@ -1,4 +1,5 @@
 # csvsubquery
+Perform a subquery using CSV files with a common key.  For more complex subquery logic, see [csvkit](https://github.com/onyxfish/csvkit)
 
 ## Usage
 ```
@@ -23,7 +24,7 @@ csvsubquery.py --incsv /dir/to/infile.csv --subcsv /dir/to/subfile.csv --outcsv 
 ## Requirements
 [click](http://click.pocoo.org) - command line library for Python
 
-```pip install click``` 
+`pip install click`
 
 ## Related
 [csvkit](https://github.com/onyxfish/csvkit) - a suite of utilities for converting to and working with CSV
